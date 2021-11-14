@@ -10,3 +10,6 @@ file to a writable drive. Please note that is you burn it onto a real CD-ROM, yo
 
 ## Building 
 To build LightX, download NASM for building LightX and it is highly reccomended to download QEMU for testing of LightX. After this, run the building script for your OS. 
+
+## Distribution Images
+For our released distribution .iso files, go to our releases page on the right side of our main GitHub page. These may be run on an virtual machine or even a real computer machine.
