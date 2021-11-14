@@ -777,9 +777,9 @@ help_about:
   $5 = "              About"
        $6 = "ASCII Artist, version 3.1.1|"
   $6 = $6 + "Copyright (C) Joshua Beck 2016|"
-  $6 = $6 + "Email: mikeosdeveloper@gmail.com|\7"
+  $6 = $6 + "Email: LightX email"
        $7 = "Licenced under the GNU GPL v3|"
-  $7 = $7 + "Uses the MB++ library, version 4.0"
+  $7 = $7 + "Uses the LX++ library, version 4.0"
   gosub mesbox
 return
 

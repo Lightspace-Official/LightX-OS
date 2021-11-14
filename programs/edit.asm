@@ -851,7 +851,7 @@ showbytepos:
 ; ------------------------------------------------------------------
 ; Data section
 
-	txt_title_msg	db 'MikeOS Text Editor', 0
+	txt_title_msg	db 'LightX OS Text Editor', 0
 	txt_footer_msg	db '[Esc] Quit  [F1] Help  [F2] Save  [F3] New  [F5] Delete line  [F8] Run BASIC', 0
 
 	txt_extension	db 'TXT', 0

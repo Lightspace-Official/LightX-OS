@@ -530,7 +530,7 @@ show_hangman:
 
 
 
-	title_msg	db 'MikeOS Hangman', 0
+	title_msg	db 'LightX OS Hangman', 0
 	footer_msg	db 'Press Esc to exit', 0
 
 	hint_msg_1	db 'Short word this time, so you', 0

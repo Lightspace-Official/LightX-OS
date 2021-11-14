@@ -37,7 +37,7 @@ LOGO:
 
 GETNAME:
   PRINT ""
-  PRINT " What do you call yourself?: " ;
+  PRINT " What does your mummy call you?: " ;
   INPUT $1
   IF $1 = "" THEN GOTO GETNAME
 

@@ -242,7 +242,7 @@ ABOUT:
        $6 = "Calculator, version 2.1.0|"
   $6 = $6 + "An advanced calculator application|"
   $6 = $6 + "Released under the GNU GPL v3|\7"
-       $7 = "Written in MikeOS BASIC|"
-  $7 = $7 + "Uses the MB++ Library, version 4.0"
+       $7 = "Written in LightX OS BASIC|"
+  $7 = $7 + "Uses the LX++ Library, version 4.0"
   GOSUB MESBOX
 RETURN

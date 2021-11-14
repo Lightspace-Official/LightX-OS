@@ -270,7 +270,7 @@ start:
 	.help_msg1		db 'Select a file operation to perform,', 0
 	.help_msg2		db 'or press the Esc key to exit...', 0
 
-	.title_msg		db 'MikeOS File Manager', 0
+	.title_msg		db 'LightX OS File Manager', 0
 	.footer_msg		db 'Copy, rename and delete files', 0
 
 	.label_string_text	db 'Filesystem label: ', 0

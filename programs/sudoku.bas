@@ -10,7 +10,7 @@ d = 24
 gosub draw_box
 
 $1 = "Easy,Medium,Hard"
-$2 = "MikeOS Sudoku"
+$2 = "LightX OS Sudoku"
 $3 = "Choose a difficulty level..."
 listbox $1 $2 $3 z
 

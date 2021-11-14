@@ -326,7 +326,7 @@ help:
   print "============================"
   print "Version 1.0.0"
   print "Copyright (C) Joshua Beck"
-  print "Email: mikeosdeveloper@gmail.com"
+  print "Email: No_email"
   print "Licenced under the GNU General Public Licence v3"
   print ""
   print "Syntax: ARCHIVE (command) (archive filename) [comma separated list]"

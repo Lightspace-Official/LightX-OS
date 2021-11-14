@@ -3319,7 +3319,7 @@ N_HASH: dw      colon				; create hash lists
 start_forth:
 	dw      CR, CR, dotq
 	db      sf01 - $ - 1
-	db      'Copyright (C) 2014 MikeOS Developers -- see doc/LICENSE.TXT'
+	db      'Copyright (C) 2021 LightX OS Developers -- see doc/LICENSE.TXT'
   sf01:
 	dw      CR, dotq
 	db      sf02 - $ - 1

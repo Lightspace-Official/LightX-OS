@@ -189,8 +189,8 @@ erase_sub:
 	warnmsg_1	db 'Serial terminal program -- may lock up', 0
 	warnmsg_2	db 'if you have no serial ports! Proceed?', 0
 
-	start_msg	db 'MikeOS minicom -- Press F8 to quit', 13, 10, 'Connecting via serial at 9600 baud...', 13, 10, 13, 10, 0
-	finish_msg	db 13, 10, 13, 10, 'Exiting MikeOS minicom; press a key to return to MikeOS', 13, 10, 0
+	start_msg	db 'LightX OS minicom -- Press F8 to quit', 13, 10, 'Connecting via serial at 9600 baud...', 13, 10, 13, 10, 0
+	finish_msg	db 13, 10, 13, 10, 'Exiting LightX OS minicom; press a key to return to LightX OS', 13, 10, 0
 
 
 ; ------------------------------------------------------------------

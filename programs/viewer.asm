@@ -255,10 +255,10 @@ close:
 
 	err_string	db 'Please select a TXT, BAS or PCX file!', 0
 
-	title_msg	db 'MikeOS File Viewer', 0
+	title_msg	db 'LightX OS File Viewer', 0
 	footer_msg	db 'Select a TXT, BAS or PCX file to view, or press Esc to exit', 0
 
-	txt_title_msg	db 'MikeOS Text File Viewer', 0
+	txt_title_msg	db 'LightX OS Text File Viewer', 0
 	txt_footer_msg	db 'Use arrow keys to scroll and Q to quit', 0
 
 	skiplines	dw 0

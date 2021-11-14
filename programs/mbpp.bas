@@ -7,7 +7,7 @@ REM Requires MikeOS version 4.5 or later.
 
 REM Wiki: https://github.com/ZeroKelvinKeyboard/MikeOS-Apps/wiki/mbppdoc
 
-PRINT "MB++ Library version 4.1.0"
+PRINT "LX++ Library version 4.1.0"
 END
 
 ANCITEXT:

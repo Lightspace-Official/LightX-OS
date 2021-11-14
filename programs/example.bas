@@ -2,7 +2,7 @@ rem *** MikeOS BASIC demo ***
 
 cls
 
-$1 = "Hex dumper,MikeTron"
+$1 = "Hex dumper,LightaTron"
 $2 = "Choose a program to run,"
 $3 = "Or press Esc to exit"
 
